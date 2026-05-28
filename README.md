@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bushra-muneer/bushra-muneer/main/assets/banner.png" alt="Banner" />
+</p>
+
 # Hi, I'm Bushra Muneer 👋
 
 Software Engineer with experience in Flutter, React, and Java Spring Boot, currently pursuing a Master's in Software Security & Engineering at the University of Genoa, Italy.
