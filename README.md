@@ -4,17 +4,16 @@
 
 # 👋 Hi, I'm Bushra Muneer
 
-### Software Engineer | Flutter & React Developer | MSc Software Security & Engineering @ University of Genoa
+### Software Engineer | Flutter Developer | React Developer | MSc Software Security & Engineering @ University of Genoa
 
 I'm a software engineer passionate about building secure, scalable, and user-centric applications across mobile and web platforms.
 
-Currently pursuing a Master's degree in **Software Security & Engineering** at the **University of Genoa**, with a focus on Android Privacy, Software Security, and Full-Stack Development.
+Currently pursuing a Master's degree in **Software Security & Engineering** at the **University of Genoa**, with a strong interest in Android Privacy, Software Security, Mobile Development, and Full-Stack Engineering.
 
 📍 Genoa, Italy  
-🎓 MSc Software Security & Engineering  
 🔐 Software Security & Privacy Enthusiast  
 📱 Flutter & Mobile Development  
-🌐 React & Full-Stack Development
+🌐 React & Full-Stack Development  
 
 ---
 
@@ -23,47 +22,55 @@ Currently pursuing a Master's degree in **Software Security & Engineering** at t
 💼 **LinkedIn**  
 https://www.linkedin.com/in/bushra-muneer-a4b8731b4/
 
-🌐 **Portfolio**  
+🌐 **Portfolio Website**  
 https://portfolio-seven-tau-bb72rijw3t.vercel.app/
 
 📧 **Email**  
-mailto:bushraahmed302@gmail.com
+bushraahmed302@gmail.com
 
 ---
 
-## 🚀 Featured Work
+# 🚀 Featured Work
 
-### 🔒 Android Privacy Research (Master's Thesis)
+## 🔒 Android Privacy Research (Master's Thesis)
 
 Researching **Automatic Anonymization of User Data Using Virtualization Techniques**, extending the Virtual Hidroid framework to enhance Android privacy protection and user data security.
 
-### 💳 Fintech Platform
+### Focus Areas
+- Android Privacy
+- Data Anonymization
+- Virtualization Techniques
+- Mobile Security
 
-Built a full-stack fintech platform consisting of:
+---
+
+## 💳 Fintech Platform
+
+Built a full-stack fintech solution consisting of:
 
 - Flutter Mobile Application
 - React Admin Portal
 - Java Spring Boot Backend
-- AWS Cloud Infrastructure
+- AWS Cloud Deployment
 - Third-Party API Integrations
 
-### 🤖 Credit Card Fraud Detection
+**Technologies:** Flutter • React • Spring Boot • AWS • REST APIs
 
-Implemented and evaluated machine learning models including:
+---
 
-- KNN
-- Random Forest
-- Logistic Regression
+## ₿ Digac – Digital Assets & Cryptocurrencies
 
-for fraudulent transaction detection.
+Developed a cryptocurrency portfolio tracking application with real-time market insights and asset management capabilities.
 
-### ₿ Digac – Digital Assets & Cryptocurrencies
+**Technologies:** Flutter • Firebase
 
-Developed a cryptocurrency portfolio management application with:
+---
 
-- Portfolio Tracking
-- Asset Management
-- Real-Time Market Insights
+## 🤖 Credit Card Fraud Detection
+
+Implemented and evaluated machine learning models to identify fraudulent financial transactions.
+
+**Models Used:** KNN • Random Forest • Logistic Regression
 
 ---
 
@@ -81,26 +88,17 @@ Developed a cryptocurrency portfolio management application with:
 
 `React` `HTML5` `CSS3` `JavaScript`
 
-## ⚙️ Backend & APIs
+## ⚙️ Backend Development
 
-`Java Spring Boot`
-`REST APIs`
-`Authentication Systems`
-`Third-Party Integrations`
+`Java Spring Boot` `REST APIs` `Authentication Systems` `API Integrations`
 
 ## ☁️ Cloud & Infrastructure
 
-`AWS`
-`EC2`
-`VPC`
-`Elastic IP`
-`Application Deployment`
+`AWS` `EC2` `VPC` `Elastic IP` `Application Deployment`
 
 ## 🗄️ Databases
 
-`PostgreSQL`
-`SQL`
-`Firebase Firestore`
+`PostgreSQL` `SQL` `Firebase Firestore`
 
 ## 🔐 Security & Privacy
 
@@ -113,9 +111,9 @@ Developed a cryptocurrency portfolio management application with:
 ## 🤖 AI & Machine Learning
 
 `Machine Learning`
+`KNN`
 `Random Forest`
 `Logistic Regression`
-`KNN`
 `LLM-Assisted Development`
 
 ## 🧰 Tools & Workflow
@@ -132,13 +130,11 @@ Developed a cryptocurrency portfolio management application with:
 
 # 🎓 Education
 
-## Master's in Software Security & Engineering
-
+### Master's in Software Security & Engineering
 **University of Genoa**  
 2023 – 2026
 
-## Bachelor of Science in Computer Science
-
+### Bachelor of Science in Computer Science
 **PAF-KIET**  
 2018 – 2022
 
@@ -154,24 +150,21 @@ Developed a cryptocurrency portfolio management application with:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bushra-muneer&show_icons=true&theme=tokyonight)
+### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-muneer&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bushra-muneer&show_icons=true&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bushra-muneer&theme=tokyonight)
+### Most Used Languages
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-muneer&layout=compact&theme=github_dark&hide_border=true)
 
-# 📫 Let's Connect
+### Contribution Streak
 
-💼 LinkedIn: https://www.linkedin.com/in/bushra-muneer-a4b8731b4/
-
-🌐 Portfolio: https://portfolio-seven-tau-bb72rijw3t.vercel.app/
-
-📧 Email: bushraahmed302@gmail.com
+![GitHub Streak](https://streak-stats.demolab.com?user=bushra-muneer&theme=github-dark-blue&hide_border=true)
 
 ---
 
 > Building secure mobile and web applications through software engineering, cloud technologies, and privacy-focused research.
+```
