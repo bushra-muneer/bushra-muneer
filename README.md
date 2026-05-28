@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bushra-muneer/bushra-muneer/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/bushra-muneer/bushra-muneer/main/assets/banner_new.png" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm Bushra Muneer
